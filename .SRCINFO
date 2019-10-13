@@ -157,6 +157,7 @@ pkgbase = wine-lol-personal
 	source = wine-lol-patch-stub.diff::https://bugs.winehq.org/attachment.cgi?id=64496
 	source = wine-lol-poc2-wine.diff::https://bugs.winehq.org/attachment.cgi?id=65424
 	source = fullscreenIssue.diff::https://bugs.winehq.org/attachment.cgi?id=64938
+	source = fullscreenIssue2.diff::https://github.com/ValveSoftware/wine/commit/91b92633da9a6c990072fd3a82fb585d4b53901b.diff
 	sha512sums = f762aab2596a4b5cf73d3282be561d25a2fe69e5d4a5ec2e29db47b3eda7496ca9eb7e57ff7765853d258422898bfa775bf9b458e61eef837b213e422bd748b8
 	sha512sums = 1f27511c8ff6619f4138eb3b2cd0cc1cdf42c0cd4206c68bdf792ae17c339611016e32babad121f0decf20331f7ce4400033be03c4db26cb6a4dc601c9c4b14d
 	sha512sums = 6e54ece7ec7022b3c9d94ad64bdf1017338da16c618966e8baf398e6f18f80f7b0576edf1d1da47ed77b96d577e4cbb2bb0156b0b11c183a0accf22654b0a2bb
@@ -164,6 +165,7 @@ pkgbase = wine-lol-personal
 	sha512sums = 159b075f11607114ee81ef801c77969c7b630b024a8a698b5f20a208f2cf780a2109f055d420e4292b774f3e5524a05b4c05d446d5217f1c050adb12b7409e45
 	sha512sums = 56213f38a9f6cd9272a86e4defabc3b88453d160f2043db909b0f7b329ff93238a6dfe0cf19213372793171a2ac909f8c09e21d91fc685deb2b65cf98ad0a234
 	sha512sums = f3e272e44098388ccb4206917eff83853c72a3e76d68ef079e3ffa27ded9894cda7e53de546f85dea4a48b4ac4ca5adfc42411f422f88ca1e736cd94d6ef7fcd
+	sha512sums = f9285f27362854a20577f7a8398a99d8e73d56a552d6bd758da57af8d251fc4ccabb339afeb670b561029e654ed668ac0a53d735c2bec97f997a080df8f37f8f
 
 pkgname = wine-lol-personal
 
